@@ -4,13 +4,13 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Nanotechnology/blob/master/ntech(1).pdf" style="text-decoration:none;">High-Resolution Thin-Film Device to Sense Texture by Touch</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Nanotechnology/blob/master/ntech(1).pdf" style="text-decoration:none;">Decline of the North American Avifauna</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Nanotechnology/blob/master/ntech(2).pdf" style="text-decoration:none;">High-Resolution Thin-Film Device to Sense Texture by Touch</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Nanotechnology/blob/master/ntech(2).pdf" style="text-decoration:none;">Deep learning enables rapid identification of potent DDR1 kinase inhibitors</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Nanotechnology/blob/master/ntech(3).pdf" style="text-decoration:none;">Self-Assembly of Nanoparticles on Live Bacterium: An avenue to fabricate Electronic Devices [1-19]</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Nanotechnology/blob/master/ntech(4).pdf" style="text-decoration:none;">Self-Assembly of Nanoparticles on Live Bacterium: An Avenue to Fabricate Electronic Devices [1-8]</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Nanotechnology/blob/master/ntech(5).pdf" style="text-decoration:none;">Highly Selective, Electrically Conductive Monolayer of Nanoparticles on Live Bacteria</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Nanotechnology/blob/master/ntech(3).pdf" style="text-decoration:none;">Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Nanotechnology/blob/master/ntech(4).pdf" style="text-decoration:none;">Significant neuroanatomical variation among domestic dog breeds</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Nanotechnology/blob/master/ntech(5).pdf" style="text-decoration:none;">Behavioral and neural correlates of hide-and-seek in rats</a></li>
 
   
 
